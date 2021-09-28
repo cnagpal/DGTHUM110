@@ -4,4 +4,6 @@
 
 ---
 
-purpose of the assignment-> what you want to show via this assignment
+purpose of the assignment-> what you want to 
+
+ ![Website of NY gov](Screenshot_20210928-085231_Chrome.jpg)
