@@ -1,10 +1,9 @@
-# (title of ur project)
+#  Heuristic Evaluation of NY
 ## Charvi Nagpal DH110
-### Assignment 01: Heuristic Evaluation of NY
-
+### Assignment 01
 ---
 
-This assignemnt seeks to heuristically evaluate two different government websites of New York State. The [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) are utilized to evaluate. 
+This assignemnt seeks to heuristically evaluate two different government websites of New York State. I have chosen to focus on websites that relate to New York's land. Specifically, the [Adirondack Park Agency](https://apa.ny.gov/index.html) and the [Geographic Information Systems Clearinghouse](http://gis.ny.gov/). The [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) are utilized to evaluate. 
 
 The following severity rating scale will be used throughout the huersitic evalutaion. 
 (1) Cosmetic problem only: need not be fixed unless extra time is available on project. 
@@ -84,5 +83,75 @@ The help section might be difficult for users to find as it not in the main menu
 
 ---
 
-## 
+## [Geographic Information Systems Clearinghouse](http://gis.ny.gov/)
+![GIS Image](GIS.png)
+
+### Background Information
+This Clearinghouse, an agency that collects and distributes information, disseminates information about New York's Statewide GIS Coordination Program and provides access to the New York State GIS Data and Metadata Repository. Users can browse the list of  GIS data sets, or search for specific keywords, to find out what data is available, who holds it, and how it can be obtained. 
+
+### Heuristic Evaluation
+*Overall: *
+
+**1. Visibility of system status** - The design should provide timely and appropriate feedback to always keep users informed about what is going on.
+It isn't very obvious what page a user is on. There is a small bar showing the category you are under, but it is inconsistent. Sometimes it shows pages that weren't clicked on to get to the page the user is at. Sometimes it disregards certain pages that were clicked on altogether and just shows the page the user is currently on. In the image below, this top bar does not even display the accurate title of the page. This bar is also made up of text that is very small and almost translucent, making it difficult to read. It would be helpful to make the bar display accurate information and be darker in color with  bigger text to be more obviously visible. 
+
+In addition, there is a sidebar of different pages that users can click on. However, after a user clicks on a sidebar option it can be difficult to know which page the user is on. A soluion could be to highlight the sidebar menu option of the page the user is currently on. In the second image below, the lack of highlighting is shown. 
+
+![GIS 1](GIS1.png)
+
+![GIS 2](GIS2.png)
+
+*Rating: 3* 
+
+**2. Match between system and real world** - The website uses words, phrases, and concepts that are familiar to the user.
+Some of the terminology used in this website may be unfamiliar to users not experienced with GIS. However, this may not be the website's target demographic so this may not need to change. For instance:
+>"Raster Maps"
+> "Orthoimagery"
+
+There is probably no simpler way to put these technical terms, but perhaps a small solution could be to add an explanation/summary to the page once a user clicks on these items. 
+
+In addition, the wesbite's title is simply "GIS.NY.GOV." This acronym could quite confusing to new users, it should be corrected to the full name **Geographic Information Systems Clearinghouse**. 
+
+*Rating: 2* 
+
+**3. User control and freedom** - The website provdes the user with options, such as undo or redo
+Since the bar at the top of the page often does not accurately display the pathway users took to get to the current page, it is difficult to undo actions. Going back to a page a user was previously on can be hard. Of course, a user's computer or phone could perform this task as well, so the problem is not as severe. A solution would be to correct the bar at the top of the page. 
+
+*Rating: 1* 
+
+**4. Consistency and standards** - The website has consistent design and usage across all pages of the website.
+As previously mentioned, the bar at the top of the page is not consistent with how it displays a user's path to the current page, so this should be corrected. The font, text size, and color scheme is all consistent throughout the site. In addition, some menu items have drop down menus while others don't (but could use a dro pdown menu). This is inconsistent, but could be solved by making sure all the menu items have a small drop down menu. 
+
+
+*Rating: 2* 
+
+**5. Error prevention** - The website provides safety nets for users and eliminates error-prone conditions. 
+
+*Rating: Not an Issue* 
+
+**6. Recognition rather than recall** - The website makes information needed to navigate the website, like elements, actions, and options, visible or easily accessible. 
+Rather than making the search bar easy to recognize, it is buried within the site for users to find. Users must click on the "Data" button on the menu, then click "Web Services" in the drop down menu. Only then can the user search the GIS data set inventories by owner or theme. A solution to this issue would be to give the search function its own spot on the menu. In addition, even after clicking an option from the menu and then the drop down menu, there are still a lot of options to click that show up in the side bar. This forces the user to recall the organization of the site, but could be solved by consolidating some of these additional options, or putting some on the same page.
+
+*Rating: 2* 
+
+**7.  Flexibility and efficiency of use** - The website allows frequent processes to be tailored to all users from novice to expert, like with shortcuts. 
+
+
+*Rating: 3* 
+
+**8. Aesthetic and minimalist design** - The website's design is not cluttered and easily accessible.
+
+*Rating: 2* 
+
+**9. Help users recognize, diagnose, and recover from errors** - The website displays non-concerning error messages and constructively suggest a solution.
+ 
+
+*Rating: Not an Issue* 
+
+**10. Help and documentation** - The website has resources to help users understand how to complete tasks
+
+*Rating: 1* 
+
+---
+
 
