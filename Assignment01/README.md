@@ -8,7 +8,7 @@ This assignemnt seeks to heuristically evaluate two different government website
 The following severity rating scale will be used throughout the huersitic evalutaion. 
 (1) Cosmetic problem only: need not be fixed unless extra time is available on project. 
 (2) Minor usability problem: fixing this should be given low priority
-(3) Major usability problem: important to fix, so should be given high priority
+(3) Major usability problem: important to fix, so should be given high priority. 
 
 ---
 
