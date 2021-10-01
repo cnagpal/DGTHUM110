@@ -46,7 +46,7 @@ This is probably not a document meant for everyone to read, but it would useful 
 
 The website does a good job with user control, as users can press the back button on their laptop or mobile device to return to the page they were at prior. As well, there is a bar that shows users where they are in the website. This is a small bar that could benefit from being enlarged, but users can use it to return to any of the pages they clicked to get to where they are in the website. Clicking the name of the website "Adirondack Park Agency" at the top left also retruns users to the home page. 
 
-*Rating: Not an Issue* 
+*Rating: 1* 
 
 **4. Consistency and standards** - The website has consistent design and usage across all pages of the website.
 
@@ -56,7 +56,7 @@ The color scheme is consistent with the same blue used for headings and orange f
 
 **5. Error prevention** - The website provides safety nets for users and eliminates error-prone conditions. 
 
-The website reduces user error by making all links bright orange. This way, it will be difficult for a user to make a mistake and acccidentally navigate to a page. It also informs users when a link leads to a pdf file so that users will not accidentally download anything they did not want to. With this website in particlar, there are not really any actions a user can take that cannot be undone, so error prevention does not have to be very strict. 
+The website reduces user error by making all links bright orange. This way, it will be difficult for a user to make a mistake and acccidentally navigate to a page. An improvement could be to include a pop up when a user naviagtes away from the website altogether. It also informs users when a link leads to a pdf file so that users will not accidentally download anything they did not want to. With this website in particlar, there are not really any actions a user can take that cannot be undone, so error prevention does not have to be very strict. 
 
 *Rating: Not an Issue* 
 
@@ -105,11 +105,8 @@ This Clearinghouse, an agency that collects and distributes information, dissemi
 
 It isn't very obvious what page a user is on. There is a small bar showing the category you are under, but it is inconsistent. Sometimes it shows pages that weren't clicked on to get to the page the user is at. Sometimes it disregards certain pages that were clicked on altogether and just shows the page the user is currently on. In the image below, this top bar does not even display the accurate title of the page. This bar is also made up of text that is very small and almost translucent, making it difficult to read. It would be helpful to make the bar display accurate information and be darker in color with  bigger text to be more obviously visible. 
 
-In addition, there is a sidebar of different pages that users can click on. However, after a user clicks on a sidebar option it can be difficult to know which page the user is on. A soluion could be to highlight the sidebar menu option of the page the user is currently on. In the second image below, the lack of highlighting is shown. 
-
 ![GIS 1](GIS1.png)
 
-![GIS 2](GIS2.png)
 
 *Rating: 3* 
 
@@ -134,38 +131,55 @@ Since the bar at the top of the page often does not accurately display the pathw
 
 **4. Consistency and standards** - The website has consistent design and usage across all pages of the website.
 
-As previously mentioned, the bar at the top of the page is not consistent with how it displays a user's path to the current page, so this should be corrected. The font, text size, and color scheme is all consistent throughout the site. In addition, some menu items have drop down menus while others don't (but could use a dro pdown menu). This is inconsistent, but could be solved by making sure all the menu items have a small drop down menu. 
-
+As previously mentioned, the bar at the top of the page is not consistent with how it displays a user's path to the current page, so this should be corrected. The font, text size, and color scheme is all consistent throughout the site. In addition, some menu items have drop down menus while others don't (but could use a drop down menu). This is inconsistent, but could be solved by making sure all the menu items have a small drop down menu. Asides from this, the design of the website sems very consistent with itself and with other government websites. It is simple, with easy to read text and basic colors. 
 
 *Rating: 2* 
 
 **5. Error prevention** - The website provides safety nets for users and eliminates error-prone conditions. 
 
-*Rating: Not an Issue* 
+This website prevents user errors by providing a small image next to pdf and zip files that indicate to the user what they will be downloading if they click the link.  However, this isn't as intuitive as it could be. In fact, I didn't know what a zip file's symbol was and I had to click the link and download the file to figure it out. A solution could be to include a small caption that tells users the file type. Any links are also underlined, but this isn't very obvious to users. It might be beneficial for links to also be a different color. In addition, the website does a good job preventing search errors. Because the search feature doesn't take in any text from users and instead allowes users to simply select the owner of the data set and theme of the data set, the ability for error to occur decreases.
+
+![GIS 3 Image](GIS3.png)
+
+*Rating: 1* 
 
 **6. Recognition rather than recall** - The website makes information needed to navigate the website, like elements, actions, and options, visible or easily accessible. 
 
-Rather than making the search bar easy to recognize, it is buried within the site for users to find. Users must click on the "Data" button on the menu, then click "Web Services" in the drop down menu. Only then can the user search the GIS data set inventories by owner or theme. A solution to this issue would be to give the search function its own spot on the menu. In addition, even after clicking an option from the menu and then the drop down menu, there are still a lot of options to click that show up in the side bar. This forces the user to recall the organization of the site, but could be solved by consolidating some of these additional options, or putting some on the same page.
-
-*Rating: 2* 
-
-**7.  Flexibility and efficiency of use** - The website allows frequent processes to be tailored to all users from novice to expert, like with shortcuts. 
-
+Rather than making the search bar easy to recognize, it is buried within the site for users to find. Users must click on the "Data" button on the menu, then click "Data Catalog" in the drop down menu. Only then can the user search the GIS data set inventories by owner or theme. A solution to this issue would be to give the search function its own spot on the menu. In addition, even after clicking an option from the menu and then the drop down menu, there are still a lot of options to click that show up in the side bar. This forces the user to recall the organization of the site, but could be solved by consolidating some of these additional options, or putting some on the same page.
 
 *Rating: 3* 
 
-**8. Aesthetic and minimalist design** - The website's design is not cluttered and easily accessible.
+**7.  Flexibility and efficiency of use** - The website allows frequent processes to be tailored to all users from novice to expert, like with shortcuts. 
+
+Instead of hiding an expert level shortcut from users, this website features it on ts homepage. If a user clicks on the webste title, they are taken to the homepage where a map of New York's counties is present, without any labeling. A text box asks users to select a county for more information. Though this is a useful feature, not everyone can recognize New York's counties without any help. The map lacks accessibility for novices that cannot recognize these counties. A solution may be to place this feature elsewhere on the website and include labels for the counties to make it more accessible. 
 
 *Rating: 2* 
 
-**9. Help users recognize, diagnose, and recover from errors** - The website displays non-concerning error messages and constructively suggest a solution.
- 
+**8. Aesthetic and minimalist design** - The website's design is not cluttered and easily accessible.
+
+This website is not very cluttered with excess links. In addition, the text size, color, and font are easily reabable. 
 
 *Rating: Not an Issue* 
 
-**10. Help and documentation** - The website has resources to help users understand how to complete tasks
+**9. Help users recognize, diagnose, and recover from errors** - The website displays non-concerning error messages and constructively suggest a solution.
 
-*Rating: 1* 
+There are not many places that users can make errors on this website. The search feature only allows for users to select data owner and data theme, and the only kind of error I was able to produce with this was the following: 
+
+>No Matching Records Found.
+>
+>Your search criteria may have been too narrow.
+>
+>Refine Your Search
+
+This is a very clear error message that lets the user know exactly what went wrong and supplies them with a link to try their search again. 
+
+*Rating: Not an Issue* 
+
+**10. Help and documentation** - The website has resources to help users understand how to complete tasks. 
+
+There is no part of the website that is distnictly labelled as a "help" page, which could be confusing for users. There is a "Contact" page that allows users to direct their questions to a certain email and phone number. However, the sit could benfit from adding a dedictaed help page that includes the answers to freuently asked questions. 
+
+*Rating: 3* 
 
 ---
 
