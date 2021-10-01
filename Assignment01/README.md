@@ -177,7 +177,7 @@ This is a very clear error message that lets the user know exactly what went wro
 
 **10. Help and documentation** - The website has resources to help users understand how to complete tasks. 
 
-There is no part of the website that is distnictly labelled as a "help" page, which could be confusing for users. There is a "Contact" page that allows users to direct their questions to a certain email and phone number. However, the sit could benfit from adding a dedictaed help page that includes the answers to freuently asked questions. 
+There is no part of the website that is distnictly labelled as a "help" page, which could be confusing for users. There is a "Contact" page that allows users to direct their questions to a certain email and phone number. However, the site could benfit from adding a dedictaed help page that includes the answers to freuently asked questions. 
 
 *Rating: 3* 
 
