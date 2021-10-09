@@ -1,11 +1,11 @@
 # Assignment 02: Usability Testing
-## Geographic Information Systems Clearinghouse Pilot Test
+## [Geographic Information Systems Clearinghouse: New York](http://gis.ny.gov/) Pilot Test
 ### Charvi Nagpal
 
 ---
 ## Introduction
 
-In the assignment I will conduct pilot usability testing on the website titled "Geographic Information Systems Clearinghouse". This Clearinghouse, an agency that collects and distributes information, disseminates information about New York's Statewide GIS Coordination Program and provides access to the New York State GIS Data and Metadata Repository. Users can browse the list of GIS data sets, or search for specific keywords, to find out what data is available, who holds it, and how it can be obtained.\
+In the assignment I will conduct pilot usability testing on the website titled "Geographic Information Systems Clearinghouse". This Clearinghouse, an agency that collects and distributes information, disseminates information about New York's Statewide GIS Coordination Program and provides access to the New York State GIS Data and Metadata Repository. Users can browse the list of GIS data sets, or search for specific keywords, to find out what data is available, who holds it, and how it can be obtained.
 
 For this site, the usability issues I found from my heuristic evaluation were as follows:
 
