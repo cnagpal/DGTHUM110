@@ -26,7 +26,7 @@ A limitations regarding data searching in person and online is the availability 
 
 ### What are the characteristics of users?
 
-Demographics: Students, researchers, and professional data analyaists would likley be the mainstream audience, while data hobbyists would be more extreme users.
+Demographics: Students, researchers, and professional data analysts would likley be the mainstream audience, while data hobbyists would be more extreme users.
 
 Preferences: Have the desire to obtain data sets, for research, learning, or projects. 
 
@@ -36,7 +36,29 @@ Expertise: Users do not have to be experts to use the site itself, but may need 
 
 Users would perform the activity asociated with this webpage likely in a professional/working or university environment. They would do this to meet goals/tasks established in their career or university course. 
 
-### What do/did the users usually do in order to complete that activity? 
+### What do users usually do in order to complete that activity? 
 
 To find data sets, users would likely search the internet, visit sites like [Kaggle](https://www.kaggle.com/datasets) and [Socrata](https://opendata.socrata.com/), or visit a library. 
 
+## Step 3: Research Method and Plam
+
+I decided on a combination of research methods. I will be conducting an **interview** and **ethnographic research.**
+
+The ethnographic research I conducted consisted simply of observing people in the library to see how people search for primary source infomation and data in general. 
+
+In the interview, I asked a volunteer user to answer some questions, found in the interview guide below.
+
+## Step 4: Interview Guide
+
+The link to the **interview guide** can be found [here](). 
+
+## Step 5: Contextual Inquiry Data
+
+Please find the **recording** of the interview [here]().
+
+The **transcription** of the interview can be found [here]().
+
+
+## Step 6 Reflection: 
+
+From this contextual inquiry, one of the things I learned is that people do not go to libraries to look for data or primary source information as much as they use the internet to find these things. 
