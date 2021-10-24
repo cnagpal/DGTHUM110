@@ -42,15 +42,15 @@ To find data sets, users would likely search the internet, visit sites like [Kag
 
 ## Step 3: Research Method and Plam
 
-I decided on a combination of research methods. I will be conducting an **interview** and **ethnographic research.**
+I decided on a combination of research methods. I will be conducting an **interview** and **participatory observation** through a a small user activity.
 
-The ethnographic research I conducted consisted simply of observing people in the library to see how people search for primary source infomation and data in general. 
+In the user activity, I asked the user to use a data set search website to see how they generally interact with a webpage that serves this function. Also to observe what features they like and gravitate towards using when looking for data. I also asked the user questions in an interview about their searches for data in everday life.
 
-In the interview, I asked a volunteer user to answer some questions, found in the interview guide below.
+The user chosen for this contextual inquiry is a math major at UCLA. This user adequetely meets the requirement of a student that likely uses data in their school assignments and projects, and has conducted a search for data sets to utilize in the past. 
 
 ## Step 4: Interview Guide
 
-The link to the **interview guide** can be found [here](). 
+The link to the **interview guide** can be found [here](https://docs.google.com/document/d/1kDuoKffRKIUAyq6ABM2Oo4nrJJf8OYtK5h05zG0BuM0/edit?usp=sharing). 
 
 ## Step 5: Contextual Inquiry Data
 
@@ -62,3 +62,5 @@ The **transcription** of the interview can be found [here]().
 ## Step 6 Reflection: 
 
 From this contextual inquiry, one of the things I learned is that people do not go to libraries to look for data or primary source information as much as they use the internet to find these things. 
+
+Something I would have liked to do differently is to choose a volunteer that performs searches for data sets more frequently. As an undergraduate student, the user I had chosen did not have as much experience with this task and perhaps had less insight into this process. A graduate student or working professional in the realm of data science might have been a beter choice. I also could have done more research about the kinds of people that use data sets and their reasons for doing so, as this would've enabled me to come up with more thoughtful questions.
