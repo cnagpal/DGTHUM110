@@ -46,7 +46,7 @@ I decided on a combination of research methods. I will be conducting an **interv
 
 In the user activity, I asked the user to use a data set search website to see how they generally interact with a webpage that serves this function. Also to observe what features they like and gravitate towards using when looking for data. I also asked the user questions in an interview about their searches for data in everday life.
 
-The user chosen for this contextual inquiry is a math major at UCLA. This user adequetely meets the requirement of a student that likely uses data in their school assignments and projects, and has conducted a search for data sets to utilize in the past. 
+The user chosen for this contextual inquiry is a math major at UCLA. This user adequetely meets the requirement of a student that likely uses data in their school assignments and projects, and has conducted searches for data sets in the past. 
 
 ## Step 4: Interview Guide
 
