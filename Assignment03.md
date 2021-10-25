@@ -42,6 +42,12 @@ To find data sets, users would likely search the internet, visit sites like [Kag
 
 ## Step 3: Research Method and Plam
 
+My ojectives for this research are:
+
+1. What prompts users to search for data sets and other kinds of primary sources
+2. Where and how they search for this information
+3. Issues they have while searching and what they wish was improved
+
 I decided on a combination of research methods. I will be conducting an **interview** and **participatory observation** through a a small user activity.
 
 In the user activity, I asked the user to use a data set search website to see how they generally interact with a webpage that serves this function. Also to observe what features they like and gravitate towards using when looking for data. I also asked the user questions in an interview about their searches for data in everday life.
@@ -54,13 +60,13 @@ The link to the **interview guide** can be found [here](https://docs.google.com/
 
 ## Step 5: Contextual Inquiry Data
 
-Please find the **recording** of the interview [here]().
+Please find the **recording** of the interview [here](https://linksharing.samsungcloud.com/dq6lrApS3Oz9).
 
-The **transcription** of the interview can be found [here]().
+The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1JDcdkrHKwXvchqzjrLBNpWI9nldk1X2loBC06x4jBAw/edit?usp=sharing).
 
 
 ## Step 6 Reflection: 
 
-From this contextual inquiry, one of the things I learned is that people do not go to libraries to look for data or primary source information as much as they use the internet to find these things. 
+From this contextual inquiry, one of the things I learned is that people do not go to libraries to look for data or primary source information as much as they use the internet to find these things. I also learned about some of the more useful features of Kraggle that the website I am redesigning does not have, like the tags and filter feature when searching. I also learned that this user wanted to spend as little time as possible looking for data sets specific to her needs, to streamlining the sreach process would be beneficial. She did not have much insight about what metadata would be useful to show users, so this is something I will try to work on figuring out myself. 
 
-Something I would have liked to do differently is to choose a volunteer that performs searches for data sets more frequently. As an undergraduate student, the user I had chosen did not have as much experience with this task and perhaps had less insight into this process. A graduate student or working professional in the realm of data science might have been a beter choice. I also could have done more research about the kinds of people that use data sets and their reasons for doing so, as this would've enabled me to come up with more thoughtful questions.
+Something I would have liked to do differently is to choose a volunteer that performs searches for data sets more frequently. As an undergraduate student, the user I had chosen did not have as much experience with this task and perhaps had less insight into this process. A graduate student or working professional in the realm of data science might have been a beter choice. I also could have done more research about the kinds of people that use data sets and their reasons for doing so, as this would've enabled me to come up with more thoughtful questions. I also would have liked to do a less focused critical inquiry and let the user explore the website more and discuss more, so that more insights could have been reached. I felt pressured to stick to the script, so I did not ask as many explorative questions as I would have liked to. 
