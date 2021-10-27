@@ -60,7 +60,7 @@ The link to the **interview guide** can be found [here](https://docs.google.com/
 
 ## Step 5: Contextual Inquiry Data
 
-Please find the **recording** of the interview [here](https://linksharing.samsungcloud.com/dq6lrApS3Oz9).
+Please find the **recording** of the interview [here](https://linksharing.samsungcloud.com/jQvmXcNW7ZkQ).
 
 The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1JDcdkrHKwXvchqzjrLBNpWI9nldk1X2loBC06x4jBAw/edit?usp=sharing).
 
