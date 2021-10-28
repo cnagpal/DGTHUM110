@@ -14,6 +14,10 @@
 
 ## Two Personas
 
+![Melissa image](MelissaJPG.JPG)
+
+![Andrew](Andrew.JPG)
+
 ## Scenario 1 w/ Melissa (Features 1 & 2)
 
 ### Why 
@@ -26,6 +30,8 @@ She decides to look up government websites to find people that own the data she 
 
 ### Journey Map 
 
+![Melissa 2 image](Melissa2.JPG)
+
 ## Scenario 2 w/ Andrew (Feature 3) 
 
 ### Why 
@@ -35,5 +41,7 @@ Andrew is a working professional who has a lot of experienc with data science an
 ### How 
 At the suggestion of his coworker, Andrew looks up government webistes for New York to find the data for his job. He finds GIS.NY.GOV. There is a cool feature on this site where there are tags present on the landing page. This way, he can simply click one button and be taken immediately to all data sets that fit a given theme. He scrolls for a very brief amount of time, seeing tags like orthoimagery, parks/recreation, etc. Fianlly he see it! A tag called transportation. This is relevant and he immeditely recognizes that his needed data will be under this category, and he is correct. This validates his as a user. He finds the trafic accidents data set easily, and is able to put his time and energy into creating a beautiful data visualization, his favorite part of this job!
 
+### Journey Map
 
+![Andrew 2 image](Andrew2.JPG)
 
