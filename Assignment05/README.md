@@ -18,6 +18,6 @@ For the task I will ask the user to navigate to the a data set about  using the 
 
 ## Wireframes and Wireflow
 
-![Prototype](Protoype_1.jpg)
+![Prototype](Prototype _1.jpg)
 
 This wireframe and wireflow includes a small scale interaction
