@@ -14,11 +14,26 @@ Purpose: By making this low fidelity prototype, I hope to be able to test the fu
 
 Tasks: To test the functionality of the features I propsed, I will ask the test user to perform a few tasks. This will show me if it is straightfroward to navigate between the two pages and learn information from them, feature 1 and 2. It will also show me if the tags feature is intuitive to use as well, feature 3. 
 
-For the task I will ask the user to navigate to the a data set about  using the tags feature. Then, I will ask them to navigate to the owner's page.
+For the task I will ask the user to navigate to the a data set about permeable soils by region using the tags feature. Then, I will ask them to navigate to the owner's page.
 
 ## Wireframes and Wireflow
 
 ![Prototype _1](https://user-images.githubusercontent.com/91553114/139788894-fe6fc6f6-ffa5-46b4-a3a8-7f530ac776f4.jpg)
 
+This wireframe and wireflow includes a small scale interaction. It shows how user can slide between the different tags and select one. Also it shows how to navigate to the data set page and data owner page in multiple different ways. This information is already present on the current website, but these features make it easier to see the information and navigate between the pages that host them. 
 
-This wireframe and wireflow includes a small scale interaction
+## Testing
+
+![Testing_1](https://user-images.githubusercontent.com/91553114/139790538-f98edcdf-8510-45a3-b8e2-4f5a569ade08.jpg)
+
+This demonstrates how the user navigated through these pages, to complete the tasks of finding the permeable soils data set and the owners page. I also included uestion marks where the user was confused or had a suggestion/question.
+
+## Reflection
+
+This first test went pretty smoothly. I had to explain what the tags feature was but this is likely because of how lo-fi the protoype is. Once i explained, the user was easily able to navigate between the different wireframes to complete the tasks given to them. Something that went differently is that the user could not tell that the owners name was a hyperlink to a new page. This is more so a design element, so I will keep this in mind for my high-fi protoype, and change the name to e a different color or a button so that it's easily discernable as a hyperlink to users. 
+
+Some additional feedback I recieved is the creating a way to de-select the tags so that the results will be unfiltered. The user also attempted to select multiple tags at once, but this was not supported by my protoype. I would change my protopye to include this. As well, filling the home page with new or popular data sets was a idea the user gave me, as in this first prototype, the page is empty. There were also a few interactions that I forgot to include in my original wireflow, so next time I will be more careful to include every possible case for users. 
+
+## Prototype 2
+
+
