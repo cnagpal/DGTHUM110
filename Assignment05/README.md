@@ -18,6 +18,7 @@ For the task I will ask the user to navigate to the a data set about  using the 
 
 ## Wireframes and Wireflow
 
-![Prototype](Prototype _1.jpg)
+![Prototype _1](https://user-images.githubusercontent.com/91553114/139788894-fe6fc6f6-ffa5-46b4-a3a8-7f530ac776f4.jpg)
+
 
 This wireframe and wireflow includes a small scale interaction
