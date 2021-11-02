@@ -34,11 +34,14 @@ This first test went pretty smoothly. I had to explain what the tags feature was
 
 Some additional feedback I recieved is the creating a way to de-select the tags so that the results will be unfiltered. The user also attempted to select multiple tags at once, but this was not supported by my protoype. I would change my protopye to include this. As well, filling the home page with new or popular data sets was a idea the user gave me, as in this first prototype, the page is empty. There were also a few interactions that I forgot to include in my original wireflow, so next time I will be more careful to include every possible case for users. 
 
+I learned that I really enjoy the process of creating a lo-fi protoype. Next time, I will space my wireframes out more so it is easier to show all of the interactions possible without it getting to messy with the arrows. I need to revise my prototype to include the rest of these interaction, and make the changes suggested by the user. 
+
 ## Post-Reflection Prototype #2
 
-For this, I included additional interactions with a red arrow. There are new features mentioned in the refection, like de-selecting tags and clearing all tags. Also, there is the feature of selecting more than one tag. Not every interaction possible is present here because the arrow were getting messy, but I included as many as I could. 
+For this, I included additional interactions with a red arrow. There are new features mentioned in the refection, like de-selecting tags and clearing all tags. Also, there is the feature of selecting more than one tag. I also added a "trending now" page so that there is not an empty space there. Not every interaction possible is present here because the arrow were getting messy, but I included as many as I could. 
 
 ![Prototype2nd_1](https://user-images.githubusercontent.com/91553114/139792414-d5fff117-b96c-4e09-9f91-79eed34f9d6f.jpg)
+
 
 
 
