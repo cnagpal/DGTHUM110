@@ -40,12 +40,11 @@ The first is the default wireframe I have been using, with a light color scheme.
 
 ## Accessibility Test
 
-![test1](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C1.JPG)
-![test2](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C11.JPG)
+![test1](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C1.JPG) 
+![test2 (https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C11.JPG)
 ![test3](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C2.JPG)
 ![test4](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C3.JPG)
 ![test5](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/C5.JPG)
-![test6](https://github.com/cnagpal/DGTHUM110/blob/f7a5dd8c8f7e74291c921ff6af2c90c2465b929f/Assignment06/Dark.JPG)
 
 These are some screenshots of contrast checking the text against the backgrounds.
 
