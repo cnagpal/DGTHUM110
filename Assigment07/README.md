@@ -16,4 +16,18 @@ These tasks/features are:
 
 ## Wireflow
 
+The link to the figma file where you can view the wireflow and interface in detail can be found [here](https://www.figma.com/file/gPgJyfw77nUDkfiqRIgVs2/Untitled?node-id=0%3A1).
+
 ![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/ddcdbf454301f00e17d6d654adad40ef2a235191/Assigment07/Wireflow.jpg)
+
+To view my interactive prototype, click [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1).
+
+Not all the interactions are represented through flow arrows so as to mantain clarity. 
+
+## Cognitive Walkthrough
+
+In class, a cognitive walkthrough I did with my peers in the breakout room is what resulted in this iteration. I shared with them my [digitized wireframes](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment06/README.md) from the last assignment so they could "walk" through each task, noting down problems or difficulties as they go. A difficulty that came up was that there is more than one appropriate way to filter through the content, but I was only providing users with one way - through themes. In addition, since there are so many themes to filter by, scrolling through tags that are displayed across the screen seemed tedious. Because of this feedback, I added drop down menus users can use to filter. Based on previous research, I found that the most pertinent items to filter by are themes and sector, so these are the two I emphasized. 
+
+With the second iteration of cognitive walkthroughs, I enlisted the help of my classmate, Amanda Johnson. This walkthough is scheduled to take place on Thursday night and I will supplement information here post-walkthrough.
+
+
