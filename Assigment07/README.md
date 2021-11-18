@@ -18,7 +18,7 @@ These tasks/features are:
 
 The link to the figma file where you can view the wireflow and interface in detail can be found [here](https://www.figma.com/file/gPgJyfw77nUDkfiqRIgVs2/Untitled?node-id=0%3A1).
 
-![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/ddcdbf454301f00e17d6d654adad40ef2a235191/Assigment07/Wireflow.jpg)
+![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/08f92077de26cac14c1ad7a6625c8fbc91a042ce/Assigment07/Wireflow.jpg)
 
 To view my interactive prototype, click [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1).
 
