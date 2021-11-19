@@ -30,4 +30,6 @@ In class, a cognitive walkthrough I did with my peers in the breakout room is wh
 
 With the second iteration of cognitive walkthroughs, I enlisted the help of my classmates, Aye Paye and Amanda Johnson. These walkthoughs are scheduled to take place on Thursday/Friday night and I will supplement information here post-walkthrough.
 
-
+After asking my classmates to complete the tasks my prototype supported, I realized there was a bit of confusion regarding the drop down filter. The users did not realize that the "Theme" button could be clicked on to pull the drop down back up. To resolve this I changed the icon on the button when it drop down bar is visible. 
+The top drop down in this image is the old iteration and the one on the bottom is the new iteration. The arrow changes direction to help the user understand that this button can be clicked on to pull the drop down bar back up
+![Image](https://github.com/cnagpal/DGTHUM110/blob/4c91882d32c89b273a99fde2ee3eae630d734b4a/Assigment07/Capture.11JPG.JPG)
