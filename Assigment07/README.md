@@ -28,6 +28,6 @@ Not all the interactions are represented through flow arrows so as to mantain cl
 
 In class, a cognitive walkthrough I did with my peers in the breakout room is what resulted in this iteration. I shared with them my [digitized wireframes](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment06/README.md) from the last assignment so they could "walk" through each task, noting down problems or difficulties as they go. A difficulty that came up was that there is more than one appropriate way to filter through the content, but I was only providing users with one way - through themes. In addition, since there are so many themes to filter by, scrolling through tags that are displayed across the screen seemed tedious. Because of this feedback, I added drop down menus users can use to filter. Based on previous research, I found that the most pertinent items to filter by are themes and sector, so these are the two I emphasized. 
 
-With the second iteration of cognitive walkthroughs, I enlisted the help of my classmate, Amanda Johnson. This walkthough is scheduled to take place on Thursday night and I will supplement information here post-walkthrough.
+With the second iteration of cognitive walkthroughs, I enlisted the help of my classmates, Aye Paye and Amanda Johnson. These walkthoughs are scheduled to take place on Thursday/Friday night and I will supplement information here post-walkthrough.
 
 
