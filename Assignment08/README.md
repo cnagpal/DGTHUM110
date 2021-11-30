@@ -36,31 +36,33 @@ Based on my user research, I aimed to include the following features in my redes
 
 (1) A page for every data set that includes the description and ability to navigate to the the data set owner's page. 
 
-(2) A navigation bar at the top that effectively allows users to undo and revert to pevious pages they visited. 
-
 (3) A tags feature to more aesthetically filter for specific data sets
 
 Keeping these in mind, I was able to create low-fidelity wireframes and wireflows demonstrating these features. I was also able to test them and iterate my design. Read more about this part of my process [here]((https://github.com/cnagpal/DGTHUM110/tree/main/Assignment05). 
 
-After this, I moved onto experimenting with design variations to decide what the more finalized design would be like. To learn more about these variations, go to this [link](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment06/README.md).
+<img src="https://user-images.githubusercontent.com/91553114/139792414-d5fff117-b96c-4e09-9f91-79eed34f9d6f.jpg" width="500" />
 
+After this, I moved onto experimenting with design variations to decide what the more finalized design would be like. To learn more about these variations, go to this [link](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment06/README.md).
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 
 Lastly, I built an interactive prototype, which can be found [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1). 
 
+![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/08f92077de26cac14c1ad7a6625c8fbc91a042ce/Assigment07/Wireflow.jpg)
+
 ## Optional evaluation and revision history 
 
-I also conducted a cognitive walkthrough to iterate my design further. This process, along with more detail on my hi-fi prototype, can be seen in depth [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assigment07). Based on this walkthrough I was able to iterate my design to better serve the user. I changed my tag feature to a filter feature, for example. 
+Before completing the high fidelity prototype you see above, I also conducted a cognitive walkthrough to iterate my design further. This process, along with more detail on my hi-fi prototype, can be seen in depth [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assigment07). Based on this walkthrough I was able to iterate my design to better serve the user. I changed my tag feature to a filter feature, for example. I also included a new feature: a navigation bar at the top that effectively allows users to undo and revert to pevious pages they visited. 
 
 ## Pitch video 
 
 The link to the pitch video can be found [here](https://vimeo.com/651624680).
 
 <figure class="video_container">
+  
   <iframe src="https://vimeo.com/651624680" frameborder="0" allowfullscreen="true"> </iframe>
+  
 </figure>
-
 
 ## Conclusion: what did you learn throughout the process?
 
