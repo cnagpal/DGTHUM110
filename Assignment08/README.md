@@ -56,7 +56,7 @@ I also conducted a cognitive walkthrough to iterate my design further. This proc
 
 ## Pitch video 
 
-The link to the pitch video can be found [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1)
+The link to the pitch video can be found [here](https://vimeo.com/651624680).
 
 ## Conclusion: what did you learn throughout the process?
 
