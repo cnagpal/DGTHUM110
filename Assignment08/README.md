@@ -1,6 +1,6 @@
 # Accessible GIS.NY.GOV Website
 
-### This project examines and improves upon the preexisting Geograhical Informational Systems government website of New York State. This website can be used for searching through the websites database of data sets and provide points of contact within sectors of the government to gain access to and learn more about the data. 
+### This project examines and improves upon the preexisting Geograhical Informational Systems government website of New York State. This website can be used for searching through the government hosted data sets and provide points of contact within sectors of the government to gain access to and learn more about the data. 
 
 ## Design Statement
 
