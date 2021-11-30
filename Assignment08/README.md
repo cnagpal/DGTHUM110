@@ -48,6 +48,8 @@ After this, I moved onto experimenting with design variations to decide what the
 
 Lastly, I built an interactive prototype, which can be found [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1). 
 
+As you can see, there are filters for theme and for sector instead of the tags feature as previously mentioned in my protoype. This is due to cognitive walkthroughs revealing that tags feature felt to cluttered since there were so many options to choose from. Also, as there are othe useful things to filter by, two filter tabs seemed like a more efficient idea. You can also se the navigation bar at the top left hand corner, which can take users backwards in their navigation process, a new feature also courtesy of the cognitive walkthroughs. My final feature visible here is a simply designed landing page for each dataset, with a button that usres can press to find more information about the dataset's owner.
+
 ![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/08f92077de26cac14c1ad7a6625c8fbc91a042ce/Assigment07/Wireflow.jpg)
 
 ## Optional evaluation and revision history 
