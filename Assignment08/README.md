@@ -48,7 +48,11 @@ After this, I moved onto experimenting with design variations to decide what the
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 
-Lastly, I built an interative prototype, which can be found [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1). I also conducted a cognitive walkthrough to iterate my design further. This process can be seen in depth [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assigment07). Based on this walkthrough I was able to iterate my design to better serve the user. I changed my tag feature to a filter feature, for example. 
+Lastly, I built an interative prototype, which can be found [here](https://www.figma.com/proto/gPgJyfw77nUDkfiqRIgVs2/HiFiPrototype?node-id=2%3A302&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302&show-proto-sidebar=1). 
+
+## Optional evaluation and revision history 
+
+I also conducted a cognitive walkthrough to iterate my design further. This process, along with more detail on my hi-fi prototype, can be seen in depth [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assigment07). Based on this walkthrough I was able to iterate my design to better serve the user. I changed my tag feature to a filter feature, for example. 
 
 ## Pitch video 
 
