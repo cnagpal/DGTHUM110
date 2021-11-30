@@ -30,8 +30,8 @@ My research methods were an interview and participatory observation through a sm
 
 The main purpose of UX storytelling is to empathize with the user’s perspective. By recognizing the target users’ behaviors, pain points, goals, challenges, the more we can discover what parts of the product need improvement and fixing. Thus, I created two personas, scenarios, and journey maps that reflected the target audience for the GIS.NY.GOV website. Melissa Grant, a data science student eager to learn, and Andrew Smith, a data visualization specialist, were the two personas used in my UX storytelling. Read more about my process [here](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/README.md).
 
-![Melissa 1 image](https://github.com/cnagpal/DGTHUM110/blob/318c822350af516f48deb8f662a7eedf79aac17a/Assignment04/MelissaJPG.JPG)
-![Melissa 2 image](https://raw.githubusercontent.com/cnagpal/DGTHUM110/main/Assignment04/Melissa2.JPG)
+<img src="https://user-images.githubusercontent.com/91553114/144094406-2516ad9f-c25e-4e46-a514-268cb720280c.png" width="1000" />
+<img src="https://user-images.githubusercontent.com/91553114/144094355-c516e623-24ee-4074-b40c-6416fa97e52c.png" width="1000" />
 
 ## Wireframe, Low Fidelity Prototype, and graphic design element variation [assignment06 + part of 07]
 
@@ -53,8 +53,7 @@ Lastly, I built an interactive prototype, which can be found [here](https://www.
 
 As you can see, there are filters for theme and for sector instead of the tags feature as previously mentioned in my protoype. This is due to cognitive walkthroughs revealing that tags feature felt to cluttered since there were so many options to choose from. Also, as there are othe useful things to filter by, two filter tabs seemed like a more efficient idea. You can also se the navigation bar at the top left hand corner, which can take users backwards in their navigation process, a new feature also courtesy of the cognitive walkthroughs. My final feature visible here is a simply designed landing page for each dataset, with a button that usres can press to find more information about the dataset's owner.
 
-<img src="![image](https://user-images.githubusercontent.com/91553114/144094152-3f1b561f-2403-42af-b3d5-154bb5df9b70.png)
-" width="500" />
+<img src="https://user-images.githubusercontent.com/91553114/144094152-3f1b561f-2403-42af-b3d5-154bb5df9b70.png" width="1000" />
 
 
 ## Optional evaluation and revision history 
