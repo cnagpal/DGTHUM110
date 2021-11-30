@@ -32,11 +32,11 @@ The main purpose of UX storytelling is to empathize with the user’s perspectiv
 
 ## Wireframe, Low Fidelity Prototype, and graphic design element variation [assignment06 + part of 07]
 
-Based on my user research, I aimed to include the following features in my redesign:
+Though there are other aspects of this website, like orthoimagery, I wanted to keep a focus on the dataset search aspect of the site and how it could be improved, as this is what users mainly took issue with as well. Based on my user research, I aimed to include the following features in my redesign:
 
 (1) A page for every data set that includes the description and ability to navigate to the the data set owner's page. 
 
-(3) A tags feature to more aesthetically filter for specific data sets
+(2) A tags feature to more aesthetically filter for specific data sets
 
 Keeping these in mind, I was able to create low-fidelity wireframes and wireflows demonstrating these features. I was also able to test them and iterate my design. Read more about this part of my process [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assignment05). 
 
