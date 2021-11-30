@@ -30,7 +30,7 @@ My research methods were an interview and participatory observation through a sm
 
 The main purpose of UX storytelling is to empathize with the user’s perspective. By recognizing the target users’ behaviors, pain points, goals, challenges, the more we can discover what parts of the product need improvement and fixing. Thus, I created two personas, scenarios, and journey maps that reflected the target audience for the GIS.NY.GOV website. Melissa Grant, a data science student eager to learn, and Andrew Smith, a data visualization specialist, were the two personas used in my UX storytelling. Read more about my process [here](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/README.md).
 
-![Melissa 1 image](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/MelissaJPG.JPG)
+![Melissa 1 image](https://github.com/cnagpal/DGTHUM110/blob/318c822350af516f48deb8f662a7eedf79aac17a/Assignment04/MelissaJPG.JPG)
 ![Melissa 2 image](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/Melissa2.JPG)
 
 ## Wireframe, Low Fidelity Prototype, and graphic design element variation [assignment06 + part of 07]
