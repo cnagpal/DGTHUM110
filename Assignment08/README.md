@@ -53,7 +53,8 @@ Lastly, I built an interactive prototype, which can be found [here](https://www.
 
 As you can see, there are filters for theme and for sector instead of the tags feature as previously mentioned in my protoype. This is due to cognitive walkthroughs revealing that tags feature felt to cluttered since there were so many options to choose from. Also, as there are othe useful things to filter by, two filter tabs seemed like a more efficient idea. You can also se the navigation bar at the top left hand corner, which can take users backwards in their navigation process, a new feature also courtesy of the cognitive walkthroughs. My final feature visible here is a simply designed landing page for each dataset, with a button that usres can press to find more information about the dataset's owner.
 
-<img src="Wireflow.jpg" width="500" />
+<img src="![image](https://user-images.githubusercontent.com/91553114/144094152-3f1b561f-2403-42af-b3d5-154bb5df9b70.png)
+" width="500" />
 
 
 ## Optional evaluation and revision history 
