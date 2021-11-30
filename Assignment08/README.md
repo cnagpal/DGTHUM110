@@ -56,4 +56,4 @@ The link to the pitch video can be found [here](https://www.figma.com/proto/gPgJ
 
 ## Conclusion: what did you learn throughout the process?
 
-Prior to this class, I had no experience with the process of UX research and design. 
+Prior to this class, I had no experience with the process of UX research and design. So completeing this project helped me understand the foundational steps to UX research and how to apply the findings to the design. It also helped me learn many important aspects of UI design, like accessibility that I was previously unaware of. Overall, I believe I was improved a lot in both the design and research aspects of User Experience. Learning to use tools like Figma and Invision were also very useful to me, as someone interested in pursuing this as a career. Having the ability to iterate my designs through user research was also invaluable to me in my growth as a designer.
