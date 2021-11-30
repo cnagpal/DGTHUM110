@@ -38,7 +38,7 @@ Based on my user research, I aimed to include the following features in my redes
 
 (3) A tags feature to more aesthetically filter for specific data sets
 
-Keeping these in mind, I was able to create low-fidelity wireframes and wireflows demonstrating these features. I was also able to test them and iterate my design. Read more about this part of my process [here]((https://github.com/cnagpal/DGTHUM110/tree/main/Assignment05). 
+Keeping these in mind, I was able to create low-fidelity wireframes and wireflows demonstrating these features. I was also able to test them and iterate my design. Read more about this part of my process [here](https://github.com/cnagpal/DGTHUM110/tree/main/Assignment05). 
 
 <img src="https://user-images.githubusercontent.com/91553114/139792414-d5fff117-b96c-4e09-9f91-79eed34f9d6f.jpg" width="500" />
 
