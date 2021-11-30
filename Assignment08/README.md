@@ -30,6 +30,9 @@ My research methods were an interview and participatory observation through a sm
 
 The main purpose of UX storytelling is to empathize with the user’s perspective. By recognizing the target users’ behaviors, pain points, goals, challenges, the more we can discover what parts of the product need improvement and fixing. Thus, I created two personas, scenarios, and journey maps that reflected the target audience for the GIS.NY.GOV website. Melissa Grant, a data science student eager to learn, and Andrew Smith, a data visualization specialist, were the two personas used in my UX storytelling. Read more about my process [here](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/README.md).
 
+![Melissa 1 image](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/MelissaJPG.JPG)
+![Melissa 2 image](https://github.com/cnagpal/DGTHUM110/blob/main/Assignment04/Melissa2.JPG)
+
 ## Wireframe, Low Fidelity Prototype, and graphic design element variation [assignment06 + part of 07]
 
 Though there are other aspects of this website, like orthoimagery, I wanted to keep a focus on the dataset search aspect of the site and how it could be improved, as this is what users mainly took issue with as well. Based on my user research, I aimed to include the following features in my redesign:
@@ -50,7 +53,8 @@ Lastly, I built an interactive prototype, which can be found [here](https://www.
 
 As you can see, there are filters for theme and for sector instead of the tags feature as previously mentioned in my protoype. This is due to cognitive walkthroughs revealing that tags feature felt to cluttered since there were so many options to choose from. Also, as there are othe useful things to filter by, two filter tabs seemed like a more efficient idea. You can also se the navigation bar at the top left hand corner, which can take users backwards in their navigation process, a new feature also courtesy of the cognitive walkthroughs. My final feature visible here is a simply designed landing page for each dataset, with a button that usres can press to find more information about the dataset's owner.
 
-![Wireflow](https://github.com/cnagpal/DGTHUM110/blob/08f92077de26cac14c1ad7a6625c8fbc91a042ce/Assigment07/Wireflow.jpg)
+<img src="https://github.com/cnagpal/DGTHUM110/blob/08f92077de26cac14c1ad7a6625c8fbc91a042ce/Assigment07/Wireflow.jpg" width="500" />
+
 
 ## Optional evaluation and revision history 
 
